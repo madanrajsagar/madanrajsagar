@@ -4,7 +4,7 @@
 
 🏆 National Hackathon Winner
 🥇 AI Prompt Battle Winner
-🥇 College Topper
+
 
 ---
 

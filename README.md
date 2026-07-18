@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Madanraj Sagar
 
-<!--
-**madanrajsagar/madanrajsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student @ Walchand College of Engineering
 
-Here are some ideas to get you started:
+🏆 National Hackathon Winner
+🥇 AI Prompt Battle Winner
+🥇 College Topper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 MERN Stack Developer
+- 🤖 AI & ML Enthusiast
+- ☁ Learning AWS Cloud
+- 📚 Solving DSA in Java
+- 🌱 Currently building AI applications
+
+---
+
+## 🛠 Tech Stack
+
+Java • Python • JavaScript
+
+React • Node.js • Express
+
+MongoDB • MySQL
+
+AWS • Docker • Git
+
+Flask • LangChain
+
+---
+
+## 🚀 Featured Projects
+
+⭐ TravelNest
+
+⭐ AI Energy Shield
+
+⭐ Abhaya
+
+⭐ MSBTE Navigator
+
+---
+
+## 📫 Contact
+
+LinkedIn
+
+Portfolio
+
+Email

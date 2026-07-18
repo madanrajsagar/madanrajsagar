@@ -44,6 +44,7 @@ AI-powered women safety platform with emergency response features.
 
 ### 📚 MSBTE Navigator
 RAG-based chatbot for MSBTE academic resources using LangChain and FAISS.
+
 ---
 
 ## 📫 Contact

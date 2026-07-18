@@ -2,7 +2,7 @@
 
 🎓 B.Tech AI & ML Student @ Walchand College of Engineering
 
-🏆 National Hackathon Winner
+🏆2x National level Hackathon Winner
 🥇 AI Prompt Battle Winner
 
 

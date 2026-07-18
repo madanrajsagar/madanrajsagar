@@ -1,6 +1,6 @@
 # Hi 👋 I'm Madanraj Sagar
 
-🎓 B.Tech AI & ML Student @ Walchand College of Engineering
+🎓 B.Tech AI & ML Student @ Walchand College of Engineering (9.28 CGPA)
 
 🏆2x National level Hackathon Winner
 🥇 AI Prompt Battle Winner

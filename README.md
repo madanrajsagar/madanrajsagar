@@ -31,17 +31,19 @@ AWS • Docker • Git
 Flask • LangChain
 
 ---
-
 ## 🚀 Featured Projects
 
-⭐ TravelNest
+### ⚡ AI Energy Shield
+Multi-Agent AI platform for energy supply chain resilience using LangGraph, FastAPI, React, and AWS.
 
-⭐ AI Energy Shield
+### 🏡 TravelNest
+A full-stack Airbnb-inspired platform built with the MERN stack.
 
-⭐ Abhaya
+### 🤖 Abhaya
+AI-powered women safety platform with emergency response features.
 
-⭐ MSBTE Navigator
-
+### 📚 MSBTE Navigator
+RAG-based chatbot for MSBTE academic resources using LangChain and FAISS.
 ---
 
 ## 📫 Contact

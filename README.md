@@ -45,9 +45,5 @@ Flask • LangChain
 ---
 
 ## 📫 Contact
-
-LinkedIn
-
-Portfolio
-
-Email
+LinkedIn :- www.linkedin.com/in/madanraj-sagar-0a700a308
+Email:- madanrajsagar83@gmail.com
